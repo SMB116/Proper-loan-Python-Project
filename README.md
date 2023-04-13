@@ -1,4 +1,4 @@
-# Proper-loan-Python-Project
+# Prosper-loan-Python-Project
 
 # Introduction
 The dataset used in this project contains detailed information about borrowers and their loans from Prosper, America’s first marketplace lending platform. In this project, we explore who these borrowers are and their current loan status.
